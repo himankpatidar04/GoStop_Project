@@ -1,0 +1,5 @@
+09:22:14.267 [TestNG-PoolService-2] DEBUG stepDefinations.B_ValidateRoomAndExperience - Proceed Btn Clicked
+09:22:19.334 [TestNG-PoolService-3] DEBUG stepDefinations.B_ValidateRoomAndExperience - Proceed Btn Clicked
+09:22:21.507 [TestNG-PoolService-3] DEBUG stepDefinations.C_ValidateGuest - First name Added
+09:22:21.695 [TestNG-PoolService-3] DEBUG stepDefinations.C_ValidateGuest - Last name Added
+09:22:21.929 [TestNG-PoolService-3] DEBUG stepDefinations.C_ValidateGuest - Mobil no. name Added

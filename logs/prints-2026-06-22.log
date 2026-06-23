@@ -1,0 +1,7 @@
+23:51:42.666 [main] DEBUG stepDefinations.A_SelectPlace - URL Launched
+23:51:47.875 [main] DEBUG stepDefinations.A_SelectPlace - Window Maximized
+23:51:48.266 [main] DEBUG stepDefinations.A_SelectPlace - Click destination link
+23:51:56.097 [main] DEBUG stepDefinations.A_SelectPlace - Mcleodganj clicked
+23:52:02.711 [main] DEBUG stepDefinations.A_SelectPlace - Option Selected
+23:52:16.917 [main] DEBUG stepDefinations.B_ValidateRoomAndExperience - Click Add Button
+23:52:37.150 [main] DEBUG stepDefinations.B_ValidateRoomAndExperience - Room And Adventure Experience Clicked
